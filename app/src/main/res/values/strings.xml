@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">w2d1-as5</string>
+    <string name="lbl_input_name">Please input your name.</string>
+    <string name="lbl_save">SAVE</string>
+    <string name="lbl_print">PRINT</string>
+    <string name="saved_name_key">nameKey</string>
+    <string name="name_not_found">No name has been entered yet.</string>
+</resources>
